@@ -1,5 +1,7 @@
 # How to use
 
+sudo /home/alekxoo/Documents/mach-vehicle-software/venv/bin/python -m src.demo
+
 ## Set up git credential for your device
 > When you access a repository using Git on the command line using commands like git clone, git fetch, git pull or git push with HTTPS URLs, you must provide your GitHub username and your personal access token when prompted for a username and password. The command line prompt won't specify that you should enter your personal access token when it asks for your password.
 
