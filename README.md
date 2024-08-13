@@ -1,6 +1,6 @@
 # How to use
 
-## Set up git credential for your device 
+## Set up git credential for your device
 > When you access a repository using Git on the command line using commands like git clone, git fetch, git pull or git push with HTTPS URLs, you must provide your GitHub username and your personal access token when prompted for a username and password. The command line prompt won't specify that you should enter your personal access token when it asks for your password.
 
 1. [Generate a Personal Access Token](https://github.com/settings/tokens)([details](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens))
